@@ -1,0 +1,24 @@
+# Ignore Simulation Output files
+*.log
+*.vcd
+*.wlf
+*.bak
+*.o
+*.so
+*.vstf
+*.tr
+*.dsn
+*.tgz
+*.zip
+*.fsdb
+
+# Ignore build Directories
+simv*
+work/
+csrc/
+*.sim/
+
+# temp files 
+*.swp
+*.swo
+
